@@ -12,8 +12,10 @@
   <a href="https://www.linkedin.com/in/aarongfilgueira/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <img src="https://img.shields.io/badge/Associate_of_ISC2-CCSP-00838F?style=for-the-badge" alt="Associate of ISC2 (CCSP)">
-  <img src="https://img.shields.io/badge/Galicia,_Spain-555?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Galicia, Spain">
+  <a href="https://www.credly.com/badges/5f19d3d8-eb1d-4674-9084-4c5b5bf3de65/linked_in?t=tgrr9b">
+    <img src="https://img.shields.io/badge/Associate_of_ISC2-CCSP-00838F?style=for-the-badge" alt="Associate of ISC2 (CCSP)">
+  </a>
+  <img src="https://img.shields.io/badge/Spain-555?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Spain">
 </p>
 
 <!-- ═══════════════════════ ABOUT ═══════════════════════ -->
